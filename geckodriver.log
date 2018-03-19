@@ -782,3 +782,434 @@ A coding exception was thrown and uncaught in a Task.
 Full message: TypeError: NetworkError when attempting to fetch resource.
 Full stack: 
 *************************
+1521423435563	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1521423435813	Marionette	INFO	Ceased listening
+1521423435911	geckodriver::marionette	ERROR	Failed to stop browser process
+1521423440083	geckodriver	INFO	geckodriver 0.20.0
+1521423440150	geckodriver	INFO	Listening on 127.0.0.1:60641
+1521423441104	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/d0/smzcjn8j07v009d3s8z44t9c0000gp/T/rust_mozprofile.L2zq2Dg3iVl8"
+1521423442878	Marionette	INFO	Listening on port 60656
+1521423442986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521423443161	Marionette	DEBUG	loaded listener.js
+1521423443230	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-03-18 18:37:23.258 plugin-container[62181:11372213] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-18 18:37:23.259 plugin-container[62181:11372213] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521423444084	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521423444085	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521423444095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3Dv9rIqPQAAAAJ&q=EgSAYegpGNOovNUFIhkA8aeDS4XOglagP5dfh_fb4vFtU4U9shB8MgFy"
+1521423444796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=nwchybfgs3to"
+1521423444872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1521423444912	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=nwchybfgs3to"
+1521423444940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=l2uq23myvlm#yoipzw4bp59x"
+1521423444943	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=l2uq23myvlm#yoipzw4bp59x"
+1521423444946	Marionette	DEBUG	Received DOM event "pageshow" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3Dv9rIqPQAAAAJ&q=EgSAYegpGNOovNUFIhkA8aeDS4XOglagP5dfh_fb4vFtU4U9shB8MgFy"
+1521423472449	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1521423472702	Marionette	INFO	Ceased listening
+1521423472890	geckodriver::marionette	ERROR	Failed to stop browser process
+1521424042582	geckodriver	INFO	geckodriver 0.20.0
+1521424042649	geckodriver	INFO	Listening on 127.0.0.1:62760
+1521424043603	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/d0/smzcjn8j07v009d3s8z44t9c0000gp/T/rust_mozprofile.tsYXuj7V5mkP"
+1521424045421	Marionette	INFO	Listening on port 62775
+1521424045496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521424045720	Marionette	DEBUG	loaded listener.js
+1521424045780	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-03-18 18:47:25.879 plugin-container[62236:11380255] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9523, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-18 18:47:25.880 plugin-container[62236:11380255] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521424046739	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521424046739	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521424046747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3Dv9rIqPQAAAAJ&q=EgSAYegpGK6tvNUFIhkA8aeDS15oVIjMAPHMpf_E3XLu8G_5IDTcMgFy"
+1521424047490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=yekebqhrni7j"
+1521424047586	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1521424047592	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=yekebqhrni7j"
+1521424047645	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=f18pokmp66hi#1wtookw5s25w"
+1521424047647	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=f18pokmp66hi#1wtookw5s25w"
+1521424047649	Marionette	DEBUG	Received DOM event "pageshow" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3Dv9rIqPQAAAAJ&q=EgSAYegpGK6tvNUFIhkA8aeDS15oVIjMAPHMpf_E3XLu8G_5IDTcMgFy"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2018-03-18 19:07:52.461 plugin-container[62454:11397912] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-18 19:07:52.462 plugin-container[62454:11397912] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-18 19:08:02.576 plugin-container[62455:11398100] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-18 19:08:02.577 plugin-container[62455:11398100] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://a.fsdn.com/sd/all-minified.js?99e6c9e30a015780, line 372: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 62455] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+2018-03-18 19:09:04.897 plugin-container[62462:11399317] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-18 19:09:04.898 plugin-container[62462:11399317] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-8293713-27, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-8293713-27, line 69: unreachable code after return statement
+1521425630335	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1521425630564	Marionette	INFO	Ceased listening
+1521425630682	geckodriver::marionette	ERROR	Failed to stop browser process
+1521425637710	geckodriver	INFO	geckodriver 0.20.0
+1521425637782	geckodriver	INFO	Listening on 127.0.0.1:50197
+1521425638730	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/d0/smzcjn8j07v009d3s8z44t9c0000gp/T/rust_mozprofile.2y18nWSrI7G7"
+1521425640541	Marionette	INFO	Listening on port 50212
+1521425640701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521425640888	Marionette	DEBUG	loaded listener.js
+1521425640959	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-03-18 19:14:00.994 plugin-container[62504:11404243] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-18 19:14:00.995 plugin-container[62504:11404243] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9907, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521425641614	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521425641614	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521425641650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3Dv9rIqPQAAAAJ&q=EgQtMGhVGOm5vNUFIhkA8aeDSwEfE82mH_J1bz-Ujm225_e9qxPKMgFy"
+1521425642152	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=itjpjgrgs5dk"
+1521425642237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1521425642246	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=itjpjgrgs5dk"
+1521425642294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=50fbh9vcyq1c#u0h5job6pquu"
+1521425642296	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=50fbh9vcyq1c#u0h5job6pquu"
+1521425642299	Marionette	DEBUG	Received DOM event "pageshow" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3Dv9rIqPQAAAAJ&q=EgQtMGhVGOm5vNUFIhkA8aeDSwEfE82mH_J1bz-Ujm225_e9qxPKMgFy"
+1521425717521	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D2849b304d5b15da1:TM%3D1521425641:C%3Dr:IP%3D45.48.104.85-:S%3DAPGng0sVGinLBGYJldZDOAGvCKuqcQDksg%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+19-Mar-2018+05:14:01+GMT"
+1521425717616	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D2849b304d5b15da1:TM%3D1521425641:C%3Dr:IP%3D45.48.104.85-:S%3DAPGng0sVGinLBGYJldZDOAGvCKuqcQDksg%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+19-Mar-2018+05:14:01+GMT"
+1521425717616	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D2849b304d5b15da1:TM%3D1521425641:C%3Dr:IP%3D45.48.104.85-:S%3DAPGng0sVGinLBGYJldZDOAGvCKuqcQDksg%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+19-Mar-2018+05:14:01+GMT"
+1521425717759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521425717819	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521425718189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521425723462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521425728707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521425733917	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521425734026	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521425734026	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521425734112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=igIKOZcAAAAJ"
+1521425734271	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=igIKOZcAAAAJ"
+1521425734526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521425739759	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521426138775	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=igIKOZcAAAAJ"
+1521426139506	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=igIKOZcAAAAJ"
+1521426139506	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=igIKOZcAAAAJ"
+1521426139646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521426139798	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521426140089	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521426145324	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521426150572	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1521426944842	geckodriver	INFO	geckodriver 0.20.0
+1521426944920	geckodriver	INFO	Listening on 127.0.0.1:55755
+1521426945863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/d0/smzcjn8j07v009d3s8z44t9c0000gp/T/rust_mozprofile.rA6lz3K3QJ7o"
+1521426947872	Marionette	INFO	Listening on port 55770
+1521426947999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521426948243	Marionette	DEBUG	loaded listener.js
+1521426948302	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-03-18 19:35:48.335 plugin-container[62598:11428826] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-18 19:35:48.336 plugin-container[62598:11428826] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521426949166	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521426949166	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521426949176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3DAfHMFccAAAAJ&q=EgQtMGhVGITEvNUFIhkA8aeDSzc-61s3KlUEILVppiclTdIk9BprMgFy"
+1521426949743	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=5tdfhyubgdjg"
+1521426949831	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1521426949837	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=5tdfhyubgdjg"
+1521426949892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=9jlxr6pb9y1z#9dwckl8l2cqz"
+1521426949894	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=9jlxr6pb9y1z#9dwckl8l2cqz"
+1521426949896	Marionette	DEBUG	Received DOM event "pageshow" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3DAfHMFccAAAAJ&q=EgQtMGhVGITEvNUFIhkA8aeDSzc-61s3KlUEILVppiclTdIk9BprMgFy"
+1521426966454	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D28357ed31992bcec:TM%3D1521426948:C%3Dr:IP%3D45.48.104.85-:S%3DAPGng0uEDnz9KD2JGHpkWYPFreGoWBtopg%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+19-Mar-2018+05:35:48+GMT"
+1521426966571	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D28357ed31992bcec:TM%3D1521426948:C%3Dr:IP%3D45.48.104.85-:S%3DAPGng0uEDnz9KD2JGHpkWYPFreGoWBtopg%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+19-Mar-2018+05:35:48+GMT"
+1521426966572	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D28357ed31992bcec:TM%3D1521426948:C%3Dr:IP%3D45.48.104.85-:S%3DAPGng0uEDnz9KD2JGHpkWYPFreGoWBtopg%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+19-Mar-2018+05:35:48+GMT"
+1521426966664	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521426966689	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521426967014	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521426972270	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521426972398	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521426972399	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521426972477	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521426972493	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521426972797	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521426978045	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521426983286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427105042	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1521427105254	Marionette	INFO	Ceased listening
+1521427105382	geckodriver::marionette	ERROR	Failed to stop browser process
+1521427111158	geckodriver	INFO	geckodriver 0.20.0
+1521427111229	geckodriver	INFO	Listening on 127.0.0.1:56537
+1521427112179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/d0/smzcjn8j07v009d3s8z44t9c0000gp/T/rust_mozprofile.DZgwMfQuEMnO"
+1521427113941	Marionette	INFO	Listening on port 56561
+1521427114054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521427114194	Marionette	DEBUG	loaded listener.js
+2018-03-18 19:38:34.325 plugin-container[62609:11432886] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-18 19:38:34.325 plugin-container[62609:11432886] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521427115744	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521427116521	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521427116521	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521427116532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3DAfHMFccAAAAJ&q=EgQtMGhVGKzFvNUFIhkA8aeDS8B7tNWFQ57m4RYoaJiGMPCngPg7MgFy"
+1521427117089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=4flwxenk7egl"
+1521427117174	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1521427117183	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=4flwxenk7egl"
+1521427117247	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=ijp9ska0y9p0#737o6zvfqfik"
+1521427117250	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=ijp9ska0y9p0#737o6zvfqfik"
+1521427117254	Marionette	DEBUG	Received DOM event "pageshow" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3DAfHMFccAAAAJ&q=EgQtMGhVGKzFvNUFIhkA8aeDS8B7tNWFQ57m4RYoaJiGMPCngPg7MgFy"
+1521427162403	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3DAfHMFccAAAAJ&q=EgQtMGhVGKzFvNUFIhkA8aeDS8B7tNWFQ57m4RYoaJiGMPCngPg7MgFy"
+1521427163160	Marionette	DEBUG	Received DOM event "pagehide" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3DAfHMFccAAAAJ&q=EgQtMGhVGKzFvNUFIhkA8aeDS8B7tNWFQ57m4RYoaJiGMPCngPg7MgFy"
+1521427163161	Marionette	DEBUG	Received DOM event "unload" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3DAfHMFccAAAAJ&q=EgQtMGhVGKzFvNUFIhkA8aeDS8B7tNWFQ57m4RYoaJiGMPCngPg7MgFy"
+1521427163169	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3DAfHMFccAAAAJ&q=EgQtMGhVGNrFvNUFIhkA8aeDS_XUrAcf7kkVYzaUoOt2e2j7jd1OMgFy"
+1521427163209	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1521427163210	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1521427163406	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=zfif33byot3v"
+1521427163483	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/anchor?k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly9pcHY0Lmdvb2dsZS5jb206NDQz&hl=en&v=v1520836262157&size=normal&cb=zfif33byot3v"
+1521427163484	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1521427163537	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=b5tvrf9s4rwk#cgkv3jq3ymx"
+1521427163541	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1520836262157&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&cb=b5tvrf9s4rwk#cgkv3jq3ymx"
+1521427163544	Marionette	DEBUG	Received DOM event "pageshow" for "https://ipv4.google.com/sorry/index?continue=https://scholar.google.com/citations%3Fuser%3DAfHMFccAAAAJ&q=EgQtMGhVGNrFvNUFIhkA8aeDS_XUrAcf7kkVYzaUoOt2e2j7jd1OMgFy"
+1521427188114	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D3e490de5d21ff9d6:TM%3D1521427162:C%3Dr:IP%3D45.48.104.85-:S%3DAPGng0uojieXsrSph8RgTS1rK6nS5TcBXA%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+19-Mar-2018+05:39:22+GMT"
+1521427188221	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D3e490de5d21ff9d6:TM%3D1521427162:C%3Dr:IP%3D45.48.104.85-:S%3DAPGng0uojieXsrSph8RgTS1rK6nS5TcBXA%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+19-Mar-2018+05:39:22+GMT"
+1521427188222	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D3e490de5d21ff9d6:TM%3D1521427162:C%3Dr:IP%3D45.48.104.85-:S%3DAPGng0uojieXsrSph8RgTS1rK6nS5TcBXA%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+19-Mar-2018+05:39:22+GMT"
+1521427188374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427188417	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427188713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427193986	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427194090	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427194091	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427194173	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427194263	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427194581	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427199829	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427205074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427270746	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427270863	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427270863	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427271002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427271060	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427271398	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427276629	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427276733	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427276734	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427276792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427276819	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427277078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427282317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427287550	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427361580	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427361676	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427361676	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427361888	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427361899	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427362207	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427367344	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427367444	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427367444	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427367519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427367568	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427367860	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427373092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427378327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427458243	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427458353	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427458354	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427458467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521427458604	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521427458898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427464178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427469410	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427474720	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521427474831	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521427474831	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=v9rIqPQAAAAJ"
+1521427474901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=igIKOZcAAAAJ"
+1521427474932	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=igIKOZcAAAAJ"
+1521427475205	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427480433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427485611	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=igIKOZcAAAAJ"
+1521427485710	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=igIKOZcAAAAJ"
+1521427485710	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=igIKOZcAAAAJ"
+1521427485763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=gkygJ18AAAAJ"
+1521427485804	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=gkygJ18AAAAJ"
+1521427485962	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=gkygJ18AAAAJ"
+1521427486054	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=gkygJ18AAAAJ"
+1521427486054	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=gkygJ18AAAAJ"
+1521427486127	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=1AG9uzsAAAAJ"
+1521427486233	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=1AG9uzsAAAAJ"
+1521427486493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427491761	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427497053	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=1AG9uzsAAAAJ"
+1521427497162	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=1AG9uzsAAAAJ"
+1521427497163	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=1AG9uzsAAAAJ"
+1521427497224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=Rl5xhgwAAAAJ"
+1521427497265	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=Rl5xhgwAAAAJ"
+1521427497535	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427502789	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427508054	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=Rl5xhgwAAAAJ"
+1521427508158	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=Rl5xhgwAAAAJ"
+1521427508159	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=Rl5xhgwAAAAJ"
+1521427508231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427508249	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427508532	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427513745	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427513851	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427513851	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=AfHMFccAAAAJ"
+1521427513920	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427513957	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427514217	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427519473	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427524722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427529976	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427530089	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427530090	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=VXvek_AAAAAJ"
+1521427530172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=9CC9gHoAAAAJ"
+1521427530343	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=9CC9gHoAAAAJ"
+1521427530606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427535838	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427541097	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427546678	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=9CC9gHoAAAAJ"
+1521427546774	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=9CC9gHoAAAAJ"
+1521427546774	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=9CC9gHoAAAAJ"
+1521427546847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=rOvEiAYAAAAJ"
+1521427546943	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=rOvEiAYAAAAJ"
+1521427547214	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427552483	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427557715	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427562998	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=rOvEiAYAAAAJ"
+1521427563098	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=rOvEiAYAAAAJ"
+1521427563098	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=rOvEiAYAAAAJ"
+1521427563165	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=GVYNtNsAAAAJ"
+1521427563313	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=GVYNtNsAAAAJ"
+1521427563571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427568843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427574113	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=GVYNtNsAAAAJ"
+1521427574220	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=GVYNtNsAAAAJ"
+1521427574220	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=GVYNtNsAAAAJ"
+1521427574281	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=ceCfTvcAAAAJ"
+1521427574330	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=ceCfTvcAAAAJ"
+1521427574606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427579863	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427585108	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427590380	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427595652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427601111	Marionette	DEBUG	Received DOM event "beforeunload" for "https://scholar.google.com/citations?user=ceCfTvcAAAAJ"
+1521427601216	Marionette	DEBUG	Received DOM event "pagehide" for "https://scholar.google.com/citations?user=ceCfTvcAAAAJ"
+1521427601216	Marionette	DEBUG	Received DOM event "unload" for "https://scholar.google.com/citations?user=ceCfTvcAAAAJ"
+1521427601274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://scholar.google.com/citations?user=kvSIKM8AAAAJ"
+1521427601314	Marionette	DEBUG	Received DOM event "pageshow" for "https://scholar.google.com/citations?user=kvSIKM8AAAAJ"
+1521427601584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521427666871	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1521427667433	Marionette	INFO	Ceased listening
+1521427667586	geckodriver::marionette	ERROR	Failed to stop browser process
+2018-03-18 20:49:31.810 plugin-container[63142:11502807] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-18 20:49:31.812 plugin-container[63142:11502807] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20180315155655, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20180315155655, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20180315155655, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/tree/js/main.min.js?v=9a7bc408ac5c5ba9cc978f3eea1bb741, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/notebook/js/main.min.js?v=6a166b31c5a20f809e44ec2d50e40412, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-03-18 21:14:12.314 firefox-bin[62502:11404115] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.conn is null
+Full stack: onListTabs/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/root.js:288:9
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: Error: connectionClosed: 'listTabs' active request packet to 'root' can't be sent as the connection just closed.
+  Stack:
+    _getRoot/</<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/target.js:293:18
+DebuggerClient.requester/</<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:283:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:1322:29
+reject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:1145:7
+purgeRequests/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:1166:47
+purgeRequests@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:1166:5
+onClosed@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:1100:5
+close@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:668:11
+close@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:664:9
+close@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:664:9
+cleanup@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:371:7
+detachClients@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:395:9
+DebuggerClient.requester/</<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:283:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:1322:29
+emitReply@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:1021:29
+callFunctionWithAsyncStack@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/platform/chrome/stack.js:69:12
+onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/client/main.js:1023:9
+send/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 445: TypeError: content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 464: TypeError: content is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-97420779-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-97420779-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-97420779-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-97420779-1, line 69: unreachable code after return statement
